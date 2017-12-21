@@ -1,0 +1,62 @@
+<!--CODEPEN-->
+
+<head>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+</head>
+
+<html>
+<header>
+  <nav>
+    <ul>
+     
+     
+       
+      <li style='float:right'><a href='#CirclePic' style='color:#343434'></li> 
+        <li style='float:right'><a href='#Bell' style='color:#343434'><img src='https://www.qwant.com/?q=bouton%20connexion%20png&t=images&o=0:b7ee93c3aeb0892060a6aaf04289817b'></li>
+         <li style='float:right'><a href='GoogleApps' style='color:#343434'><img src='http://it.adelphi.edu/files/2013/11/google-apps-grid.jpg' class= 'Apps'></li> 
+        <li style='float:right'><a href='#Images' style='color:#343434; font-size:13px'>Images</li>
+         <li style='float:right'><a href='#Gmail' style='color:#343434; font-size:13px'>Gmail</li>
+       
+    </ul>
+  </nav>
+</header>
+
+<body>
+  <h1 class='text-center'><img src='https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png' id='google-img'>
+</h1>
+
+  <h2>
+    <div class='row'>
+      <div class='col-md-12'>
+ <form class="navbar-form" role="search">
+   <input style="border:1px solid #CED8D7" type='text' id='search'> 
+      </form>
+    
+    <div class='row'>
+      <div class='col-md-12'>
+  
+  <button class='btn btn-lg buttons'>Recherche</button>
+  <button class='btn btn-lg buttons' style='width: 150px'>J'ai de la chance</button>
+    </div>
+      </div>
+    </div>
+    
+</h2>
+  <h3 class='text-center smaller-font'>
+  <p><a href='https://landing.google.com/intl/fr/hope/'>Hope is everything</a> #Hope</p></h3>
+</body>
+
+<footer>
+  <nav>
+ <ul>
+   <li style="float:left"><a href="#advertising">Publicité</a></li>
+   <li style="float:left"><a href="#business">Entreprise</a></li>
+   <li style="float:left"><a href="#about">A propos</a></li>
+   <li style="float:right"><a href="#privacy">Confidentialité</a></li>
+   <li style="float:right"><a href="#terms">Conditions</a></li>
+   <li style="float:right"><a href="#privacy">Paramètres</a></li>
+</ul>
+    </nav>
+</footer>
+</html>
+<!--CODEPEN-->
